@@ -24,14 +24,15 @@ VPC도 그렇고
 <br><br>
 
 ## 2. 해결 과정
-
-	1. AWS 안내 먼저 따라가보기
+<br>
+1. AWS 안내 먼저 따라가보기
 
 <img src="images/aws1-1.png">
 
 처음 Access denied 경고창에서 봤던 링크로 따라가봤다. 들어가 글을 쭉 읽다 보니 하나 추천해주는 게 있었다.
 <br>
-	2. IAM policy simulator
+<br>
+2. IAM policy simulator
 
 <img src="images/aws15.png">
 
@@ -42,7 +43,9 @@ IAM 자격을 체크하는 프로그램인데 한 번에 확인하기 좋은 거
 
 Access denied 경고창에 문제로 나왔던 Cost explorer를 확인해봐도 별 이상이 없었다...
 <br>
-	3. 시간 동기화
+<br>
+
+3. 시간 동기화
 
 AWS was not able to validate provided access credentials.
 
