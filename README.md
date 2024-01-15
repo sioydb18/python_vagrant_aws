@@ -12,7 +12,7 @@ Vagrant 공식홈페이지에서 Window용 msi 파일을 다운 받는다.
 next 누르고 바로 설치하고나서
 <br/><br/>
 <img src="images/port3.png">
-<br/><br/>
+<br/>
 시스템을 다시시작해준다.
 <br/>
 
