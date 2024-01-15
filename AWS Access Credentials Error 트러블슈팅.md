@@ -48,10 +48,11 @@ AWS was not able to validate provided access credentials.
 <br/><br/>
 
 <img src="images/aws5.png">
+그러고 내 윈도우 시간을 확인 해보니 왠걸 내 시간이 오전 6시 37으로 되어 있었다.
+<br/><br/>
 
 <img src="images/aws6.png">
-
-그러고 내 윈도우 시간을 확인 해보니 왠걸 내 시간이 오전 6시 37으로 되어 있었다. 혹시 몰라 구글에서 time으로 시간 확인해보니 역시 차이가 많이 난다.
+ 혹시 몰라 구글에서 time으로 시간 확인해보니 역시 차이가 많이 난다.
 <br/><br/>
 
 <img src="images/aws7.png">
