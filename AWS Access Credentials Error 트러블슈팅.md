@@ -1,7 +1,5 @@
 ------------------------------------------------------------------------
 
-Date: {{date:YYYY-MM-DD}} {{time}}
-
 ## 1. 개요
 
 
@@ -25,14 +23,14 @@ VPC도 그렇고
 
 ## 2. 해결 과정
 <br>
-1. AWS 안내 먼저 따라가보기
+###1. AWS 안내 먼저 따라가보기
 
 <img src="images/aws1-1.png">
 
 처음 Access denied 경고창에서 봤던 링크로 따라가봤다. 들어가 글을 쭉 읽다 보니 하나 추천해주는 게 있었다.
 <br>
 <br>
-2. IAM policy simulator
+###2. IAM policy simulator
 
 <img src="images/aws15.png">
 
@@ -44,8 +42,7 @@ IAM 자격을 체크하는 프로그램인데 한 번에 확인하기 좋은 거
 Access denied 경고창에 문제로 나왔던 Cost explorer를 확인해봐도 별 이상이 없었다...
 <br>
 <br>
-
-3. 시간 동기화
+###3. 시간 동기화
 
 AWS was not able to validate provided access credentials.
 
@@ -62,6 +59,7 @@ AWS was not able to validate provided access credentials.
 <img src="images/aws7.png">
 
 설정 > 시간 및 언어 > 날짜 및 시간에서 자동으로 시간 설정을 보니 켜져있는 상태였으니 다시 껐다가 켜주니
+<br>
 <br>
 <img src="images/aws8.png">
 
